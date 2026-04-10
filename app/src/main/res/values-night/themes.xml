@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.App_xemphim" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorSecondary">@color/brand_accent</item>
+        <item name="android:windowBackground">@drawable/bg_screen_gradient</item>
+        <item name="android:statusBarColor">@color/brand_primary</item>
+    </style>
+</resources>

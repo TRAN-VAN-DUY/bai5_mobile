@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782011974937",
+    "project_id": "appmovie-74828",
+    "storage_bucket": "appmovie-74828.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782011974937:android:5f9d791f6f9cff10707188",
+        "android_client_info": {
+          "package_name": "com.example.app_xemphim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXXwM7XHMjSMH8BwldMHpoIDstGRCp5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

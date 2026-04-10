@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surface_main">#F6FAF7</color>
+    <color name="surface_alt">#D7E8F1</color>
+    <color name="card_bg">#FAFEFF</color>
+    <color name="input_bg">#FFFFFFFF</color>
+    <color name="input_stroke">#FFD2DCE3</color>
+    <color name="brand_primary">#0A6E8C</color>
+    <color name="brand_accent">#D95C2B</color>
+    <color name="text_primary">#1D2B32</color>
+    <color name="text_secondary">#4D6670</color>
+    <color name="error">#C0392B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

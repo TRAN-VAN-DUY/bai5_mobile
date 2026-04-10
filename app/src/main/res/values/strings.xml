@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie Ticket App</string>
+    <string name="login">Dang nhap</string>
+    <string name="register">Dang ky</string>
+    <string name="switch_to_register">Chua co tai khoan? Dang ky</string>
+    <string name="switch_to_login">Da co tai khoan? Dang nhap</string>
+    <string name="enter_email_password">Vui long nhap email va password</string>
+    <string name="auth_success">Dang nhap thanh cong</string>
+    <string name="auth_failed">Dang nhap that bai</string>
+    <string name="movie_price">Gia: %1$d VND</string>
+    <string name="movie_detail_info">%1$s | %2$s | %3$s | %4$d VND/ve</string>
+    <string name="enter_seats">Vui long nhap so ghe</string>
+    <string name="invalid_seats">So ghe phai tu 1 den 10</string>
+    <string name="booking_success">Dat ve thanh cong, tong tien: %1$d VND</string>
+    <string name="login_required">Ban can dang nhap</string>
+    <string name="ticket_theater">Rap: %1$s</string>
+    <string name="ticket_showtime">Suat chieu: %1$s</string>
+    <string name="ticket_seats">So ghe: %1$d</string>
+    <string name="ticket_total">Tong tien: %1$d VND</string>
+    <string name="notification_permission_denied">Ban da tu choi quyen thong bao</string>
+</resources>
